@@ -1,5 +1,6 @@
 # node sample api
-Simple example of a .net core API for comparison with nodejs
+Simple example of a [.net core API](https://github.com/tresende/dotnetcoresampleapi) for comparison with [nodejs](https://github.com/tresende/nodejssampleapi)
+
 
 1 - Clone this repository<br />
 2 - Run `npm install`<br />
